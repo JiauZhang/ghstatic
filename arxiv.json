@@ -4,7 +4,7 @@
         "VAE", "StyleGAN", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Matting", "Mamba", "SSMs", "SLAM",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
         "Talking Head", "Talking Face", "Talking Portrait", "Sora", "Text-to-Image", "Text-to-Video",
-        "Video Generation"
+        "Video Generation", "Text-to-3D", "Image-to-3D"
     ],
     "unkeyword": [
         "MRI", "medical", "protein", "COVID", "anomaly", "fault", "CT", "Recommendation",
