@@ -1,14 +1,17 @@
 {
     "keyword": [
-        "Transformer", "NeRF", "Diffusion", "CLIP", "MAE", "GAN", "GPT", "BERT", "LLMs", "Pose Estimation",
-        "VAE", "StyleGAN", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Matting", "Mamba", "SSMs", "SLAM",
+        "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
-        "Talking Head", "Talking Face", "Talking Portrait", "Sora", "Text-to-Image", "Text-to-Video",
-        "Video Generation", "Text-to-3D", "Image-to-3D", "Consistency Models", "LDMs", "LCMs",
-        "Video Editing", "Image Editing", "PF-ODE", "DDIM", "DDPM"
+
+        "Diffusion", "Consistency Models", "LDMs", "LCMs", "PF-ODE", "DDIM", "DDPM", "Sora",
+        "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
+
+        "Talking Head", "Talking Face", "Talking Portrait",
+
+        "CLIP", "MAE", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Pose Estimation", "Style Transfer"
     ],
     "unkeyword": [
-        "MRI", "medical", "protein", "COVID", "anomaly", "fault", "CT", "Recommendation",
-        "Medical"
+        "MRI", "medical", "protein", "COVID", "anomaly", "fault", "CT", "Recommendation", "X-Ray", "Cancer",
+        "Medical", "Remote Sensing"
     ]
 }
