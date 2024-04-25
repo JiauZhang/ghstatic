@@ -1,5 +1,5 @@
 {
-    "keyword": [
+    "filter-in": [
         "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
 
@@ -8,10 +8,13 @@
 
         "Talking Head", "Talking Face", "Talking Portrait",
 
-        "CLIP", "MAE", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Pose Estimation", "Style Transfer"
+        "CLIP", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Pose Estimation", "Style Transfer"
     ],
-    "unkeyword": [
-        "MRI", "medical", "protein", "COVID", "anomaly", "fault", "CT", "Recommendation", "X-Ray", "Cancer",
-        "Medical", "Remote Sensing"
+    "tags": [
+
+    ],
+    "filter-out": [
+        "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
+        "X-Ray", "Cancer", "Medical", "Remote Sensing"
     ]
 }
