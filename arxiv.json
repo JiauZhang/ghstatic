@@ -3,7 +3,7 @@
         "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
 
-        "Diffusion", "Consistency Models", "LDMs", "LCMs", "PF-ODE", "DDIM", "DDPM", "Sora",
+        "Diffusion", "Consistency Models", "LDMs", "LCMs", "PF-ODE", "Sora",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
 
         "Talking Head", "Talking Face", "Talking Portrait",
@@ -11,7 +11,7 @@
         "CLIP", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Pose Estimation", "Style Transfer"
     ],
     "tags": [
-
+        "3D", "DDIM", "DDPM"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
