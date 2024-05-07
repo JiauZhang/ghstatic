@@ -8,13 +8,13 @@
 
         "Talking Head", "Talking Face", "Talking Portrait",
 
-        "CLIP", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Pose Estimation", "Style Transfer"
+        "CLIP", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Style Transfer"
     ],
     "tags": [
-        "3D", "DDIM", "DDPM"
+        "3D", "DDIM", "DDPM", "Pose Estimation"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
-        "X-Ray", "Cancer", "Medical", "Remote Sensing"
+        "X-Ray", "Cancer", "Medical", "Remote Sensing", "Rumour"
     ]
 }
