@@ -3,7 +3,7 @@
         "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
 
-        "Diffusion", "Consistency Models", "LDMs", "LCMs", "PF-ODE", "Sora",
+        "Diffusion", "Consistency Models", "LDMs", "LCMs", "PF-ODE", "Sora", "ControlNet",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
 
         "Talking Head", "Talking Face", "Talking Portrait",

@@ -1,0 +1,20 @@
+{
+    "github": [
+        ["keplergl/kepler.gl", "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets"],
+        ["violentmonkey/violentmonkey", "Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support"],
+        ["excalidraw/excalidraw", "Virtual whiteboard for sketching hand-drawn like diagrams"],
+        ["jgraph/drawio", "draw.io is a JavaScript, client-side editor for general diagramming"],
+        ["2dust/v2rayN", "A GUI client for Windows, support Xray core and v2fly core and others"],
+        ["termux/termux-app", "Termux - a terminal emulator application for Android OS extendible by variety of packages"],
+        ["pymupdf/PyMuPDF", "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents"],
+        ["ArtifexSoftware/pdf2docx", "Open source Python library for converting PDF to DOCX"],
+        ["netease-youdao/EmotiVoice", "EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine"],
+        ["tauri-apps/tauri", "Build smaller, faster, and more secure desktop applications with a web frontend"],
+        ["mermaid-js/mermaid", "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"],
+        ["rany2/edge-tts", "Network Analysis in Python"],
+        ["pndurette/gTTS", "Python library and CLI tool to interface with Google Translate's text-to-speech API"],
+        ["ManimCommunity/manim", "A community-maintained Python framework for creating mathematical animations"],
+        ["ManimCommunity/manim-voiceover", "Manim plugin for all things voiceover"],
+        ["networkx/networkx", "Network Analysis in Python"]
+    ]
+}
