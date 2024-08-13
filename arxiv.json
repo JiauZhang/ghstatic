@@ -6,6 +6,7 @@
         "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet", "DiT", "Diffusion Transformer", "ViT",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
         "Score-Based Generative", "Score Matching", "Energy-Based Models", "Kolmogorov-Arnold Networks",
+        "Rectified Flow", "Flow Matching", "Normalizing Flows",
         "Segment Anything",
 
         "Talking Head", "Talking Face", "Talking Portrait",
