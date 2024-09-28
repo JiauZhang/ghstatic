@@ -2,6 +2,7 @@
     "filter-in": [
         "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
+        "Flash Attention", "RNN", "Test-Time Training",
 
         "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet", "DiT", "Diffusion Transformer", "ViT",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
@@ -14,7 +15,8 @@
         "CLIP", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Style Transfer"
     ],
     "tags": [
-        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE"
+        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE", "Detection",
+        "Robot", "MPC", "RL", "Robotics"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
