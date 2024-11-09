@@ -20,7 +20,8 @@
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
-        "Tabular", "Tumor",
+        "Tabular", "Tumor", "Tumour",
         "fMRI", "molecular", "molecules", "molecule", "X-Ray", "Cancer", "Medical", "Remote Sensing", "Rumour", "Text-to-SQL"
-    ]
+    ],
+    "intersection-ratio": 0.2
 }
