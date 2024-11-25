@@ -15,12 +15,12 @@
         "CLIP", "VAE", "GAN", "StyleGAN", "Segmentation", "Matting", "SLAM", "NeRF", "Style Transfer"
     ],
     "tags": [
-        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE", "Detection", "LoRA",
+        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE", "Detection", "LoRA", "Super Resolution",
         "Robot", "MPC", "RL", "Robotics"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
-        "Tabular", "Tumor", "Tumour",
+        "Tabular", "Tumor", "Tumour", "Infrared", "Backdoor", "Rumor",
         "fMRI", "molecular", "molecules", "molecule", "X-Ray", "Cancer", "Medical", "Remote Sensing", "Rumour", "Text-to-SQL"
     ],
     "intersection-ratio": 0.2
