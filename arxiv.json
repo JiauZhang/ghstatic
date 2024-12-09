@@ -2,11 +2,11 @@
     "filter-in": [
         "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
-        "Flash Attention", "RNN", "Test-Time Training",
+        "Flash Attention", "RNN", "Test-Time Training", "LLaVA", "LLaMA", "Vicuna", "VQGAN",
 
         "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet", "DiT", "Diffusion Transformer", "ViT",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
-        "Score-Based Generative", "Score Matching", "Energy-Based Models", "Kolmogorov-Arnold Networks",
+        "Score-Based Generative", "Score Matching", "Energy-Based Models", "Kolmogorov-Arnold Networks", "Vector Quantization",
         "Rectified Flow", "Flow Matching", "Normalizing Flows",
         "Segment Anything",
 
@@ -16,12 +16,12 @@
     ],
     "tags": [
         "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE", "Detection", "LoRA", "Super Resolution",
-        "Robot", "MPC", "RL", "Robotics"
+        "Depth Estimation", "SDXL", "Robot", "MPC", "RL", "Robotics"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
         "Tabular", "Tumor", "Tumour", "Infrared", "Backdoor", "Rumor", "Mental Health", "Computed Tomography", "Underwater",
-        "Adversarial Attacks", "Language Translation",
+        "Adversarial Attacks", "Language Translation", "Watermark",
         "fMRI", "molecular", "molecules", "molecule", "X-Ray", "Cancer", "Medical", "Remote Sensing", "Rumour", "Text-to-SQL"
     ],
     "intersection-ratio": 0.2
