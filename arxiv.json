@@ -16,7 +16,7 @@
     ],
     "tags": [
         "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE", "Detection", "Super Resolution",
-        "Depth Estimation", "Segmentation", "SDXL", "Robot", "MPC", "RL", "Robotics"
+        "Inpainting", "Deblurring", "Virtual Try-On", "Depth Estimation", "Segmentation", "SDXL", "Robot", "MPC", "RL", "Robotics"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
