@@ -1,0 +1,5 @@
+- [Pattern Recognition and Machine Learning](./2024-08-20-01.pdf)
+- [Machine Learning: A Probabilistic Perspective](./2024-08-20-02.pdf)
+- [Learning to Generate Data by Estimating Gradients of the Data Distribution](./2024-09-06.pdf)
+- [Diffusion Model From Scratch](./2024-12-18.pdf)
+- [Generative Diffusion Modeling](./2024-12-24.pdf)
