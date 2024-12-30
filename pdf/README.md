@@ -3,3 +3,4 @@
 - [Learning to Generate Data by Estimating Gradients of the Data Distribution](./2024-09-06.pdf)
 - [Diffusion Model From Scratch](./2024-12-18.pdf)
 - [Generative Diffusion Modeling](./2024-12-24.pdf)
+- [Flow Matching Guide and Code](./2024-12-30.pdf)
