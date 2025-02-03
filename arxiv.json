@@ -3,11 +3,12 @@
         "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
         "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
         "Flash Attention", "RNN", "Test-Time Training", "LLaVA", "DaViT", "LLaMA", "Vicuna", "VQGAN",
+        "Qwen", "DeepSeek",
 
         "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet", "LoRA", "DiT", "Diffusion Transformer", "ViT",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
         "Score-Based Generative", "Score Matching", "Energy-Based Models", "Kolmogorov-Arnold Networks", "Vector Quantization",
-        "Rectified Flow", "Flow Matching", "Normalizing Flows",
+        "Rectified Flow", "Flow Matching", "Normalizing Flows", "FLUX", "Low-Rank Adaptation",
         "Segment Anything",
 
         "Talking Head", "Talking Face", "Talking Portrait",

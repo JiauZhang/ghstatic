@@ -4,3 +4,4 @@
 - [Diffusion Model From Scratch](./2024-12-18.pdf)
 - [Generative Diffusion Modeling](./2024-12-24.pdf)
 - [Flow Matching Guide and Code](./2024-12-30.pdf)
+- [Speech and Language Processing](./2025-02-03.pdf) \[[source](https://web.stanford.edu/~jurafsky/slp3/)\]
