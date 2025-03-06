@@ -18,6 +18,7 @@
         ["KAN", "Kolmogorov-Arnold Networks"],
         ["RNN", "Recurrent Neural Network"],
         ["VAE", "Variational Auto Encoder"],
+        ["MoE", "Mixture of Experts"],
 
         "Gaussian Splatting", "Flash Attention", "LLaVA", "DaViT", "LLaMA", "Vicuna", "VQGAN", "Qwen", "DeepSeek",
 
