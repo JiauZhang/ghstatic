@@ -1,23 +1,39 @@
 {
     "filter-in": [
-        "Transformer", "GPT", "BERT", "LLMs", "ChatGPT", "ChatGLM", "RWKV", "ChatRWKV", "Mamba", "SSMs",
-        "Large Language Models", "Gaussian Splatting", "Selective State Spaces", "State Space Models",
-        "Flash Attention", "RNN", "Test-Time Training", "LLaVA", "DaViT", "LLaMA", "Vicuna", "VQGAN",
-        "Qwen", "DeepSeek",
+        "Transformer", "BERT", "Mamba", "HunyuanVideo",
 
-        "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet", "LoRA", "DiT", "Diffusion Transformer", "ViT",
+        ["CogVideo", "CogVideoX"],
+        ["GLM", "ChatGLM", "General Language Model"],
+        ["RWKV", "ChatRWKV"],
+        ["GPT", "ChatGPT"],
+        ["LLM", "LLMs", "Large Language Models"],
+        ["TTT", "Test-Time Training"],
+        ["ViT", "Vision Transformer"],
+        ["DiT", "Diffusion Transformer"],
+        ["SSMs", "State Space Models"],
+        ["SSS", "Selective State Spaces"],
+        ["LoRA", "Low-Rank Adaptation"],
+        ["RL", "Reinforcement Learning"],
+        ["Robotics", "Robot"],
+        ["KAN", "Kolmogorov-Arnold Networks"],
+        ["RNN", "Recurrent Neural Network"],
+        ["VAE", "Variational Auto Encoder"],
+
+        "Gaussian Splatting", "Flash Attention", "LLaVA", "DaViT", "LLaMA", "Vicuna", "VQGAN", "Qwen", "DeepSeek",
+
+        "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
-        "Score-Based Generative", "Score Matching", "Energy-Based Models", "Kolmogorov-Arnold Networks", "Vector Quantization",
-        "Rectified Flow", "Flow Matching", "Normalizing Flows", "FLUX", "Low-Rank Adaptation",
+        "Score-Based Generative", "Score Matching", "Energy-Based Models", "Vector Quantization",
+        "Rectified Flow", "Flow Matching", "Normalizing Flows", "FLUX",
         "Segment Anything",
 
         "Talking Head", "Talking Face", "Talking Portrait",
 
-        "CLIP", "VAE", "GAN", "StyleGAN", "Matting", "SLAM", "NeRF", "Style Transfer"
+        "CLIP", "GAN", "StyleGAN", "Matting", "SLAM", "NeRF", "Style Transfer"
     ],
     "tags": [
-        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "KAN", "SAM", "SDE", "ODE", "Detection", "Super Resolution",
-        "Inpainting", "Deblurring", "Virtual Try-On", "Depth Estimation", "Segmentation", "SDXL", "Robot", "MPC", "RL", "Robotics"
+        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "SAM", "SDE", "ODE", "Detection", "Super Resolution",
+        "Inpainting", "Deblurring", "Virtual Try-On", "Depth Estimation", "Segmentation", "SDXL", "MPC"
     ],
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
