@@ -7,6 +7,8 @@
         ["RWKV", "ChatRWKV"],
         ["GPT", "ChatGPT"],
         ["LLM", "LLMs", "Large Language Models"],
+        ["VLM", "VLMs", "Vision Language Models"],
+        ["RoPE", "Rotary Position Embedding"],
         ["TTT", "Test-Time Training"],
         ["ViT", "Vision Transformer"],
         ["DiT", "Diffusion Transformer"],
@@ -26,7 +28,7 @@
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
         "Score-Based Generative", "Score Matching", "Energy-Based Models", "Vector Quantization",
         "Rectified Flow", "Flow Matching", "Normalizing Flows", "FLUX",
-        "Segment Anything",
+        "Segment Anything", "Seedream",
 
         "Talking Head", "Talking Face", "Talking Portrait",
 
