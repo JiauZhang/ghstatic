@@ -5,3 +5,4 @@
 - [Generative Diffusion Modeling](./2024-12-24.pdf)
 - [Flow Matching Guide and Code](./2024-12-30.pdf)
 - [Speech and Language Processing](./2025-02-03.pdf) \[[source](https://web.stanford.edu/~jurafsky/slp3/)\]
+- [Reinforcement Learning from Human Feedback](./2504.12501.pdf) \[[source](http://arxiv.org/abs/2504.12501)\]

@@ -16,6 +16,7 @@
         ["SSS", "Selective State Spaces"],
         ["LoRA", "Low-Rank Adaptation"],
         ["RL", "Reinforcement Learning"],
+        ["RLHF", "Reinforcement Learning from Human Feedback"],
         ["Robotics", "Robot"],
         ["KAN", "Kolmogorov-Arnold Networks"],
         ["RNN", "Recurrent Neural Network"],
