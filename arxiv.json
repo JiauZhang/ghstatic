@@ -22,21 +22,23 @@
         ["RNN", "Recurrent Neural Network"],
         ["VAE", "Variational Auto Encoder"],
         ["MoE", "Mixture of Experts"],
+        ["SAM", "Segment Anything"],
+        ["CoT", "Chain of Thought"],
+        "PPO", "DPO", "GRPO",
 
         "Gaussian Splatting", "Flash Attention", "LLaVA", "DaViT", "LLaMA", "Vicuna", "VQGAN", "Qwen", "DeepSeek",
 
         "Diffusion", "Consistency Models", "LDMs", "LCMs", "Sora", "ControlNet",
         "Text-to-Image", "Text-to-Video", "Video Generation", "Text-to-3D", "Image-to-3D", "Video Editing", "Image Editing",
         "Score-Based Generative", "Score Matching", "Energy-Based Models", "Vector Quantization",
-        "Rectified Flow", "Flow Matching", "Normalizing Flows", "FLUX",
-        "Segment Anything", "Seedream",
+        "Rectified Flow", "Flow Matching", "Normalizing Flows", "FLUX", "Seedream",
 
         "Talking Head", "Talking Face", "Talking Portrait",
 
         "CLIP", "GAN", "StyleGAN", "Matting", "SLAM", "NeRF", "Style Transfer"
     ],
     "tags": [
-        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "SAM", "SDE", "ODE", "Detection", "Super Resolution",
+        "3D", "DDIM", "DDPM", "Pose Estimation", "RAG", "SDE", "ODE", "Detection", "Super Resolution",
         "Inpainting", "Deblurring", "Virtual Try-On", "Depth Estimation", "Segmentation", "SDXL", "MPC"
     ],
     "filter-out": [
