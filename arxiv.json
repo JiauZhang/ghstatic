@@ -44,7 +44,7 @@
     "filter-out": [
         "MRI", "medical", "protein", "COVID", "Anomaly Detection", "Fault Detection", "CT Scan", "CT Image", "Recommendation",
         "Tabular", "Tumor", "Tumour", "Infrared", "Backdoor", "Rumor", "Mental Health", "Computed Tomography", "Underwater",
-        "Adversarial Attacks", "Language Translation", "Watermark", "Ultrasound", "Disease",
+        "Adversarial Attacks", "Language Translation", "Watermark", "Ultrasound", "Disease", "Surgical", "Biology", "Cell",
         "fMRI", "molecular", "molecules", "molecule", "X-Ray", "Cancer", "Medical", "Remote Sensing", "Rumour", "Text-to-SQL"
     ],
     "intersection-ratio": 0.2

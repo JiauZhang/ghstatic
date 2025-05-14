@@ -13,6 +13,7 @@
 - [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964)
 - [Secrets of RLHF in Large Language Models Part II: Reward Modeling](https://arxiv.org/abs/2401.06080)
 - [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551)
+- [A Practical Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/2505.08295)
 
 ### Misc
 - [Pattern Recognition and Machine Learning](./2024-08-20-01.pdf)
