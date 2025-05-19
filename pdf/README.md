@@ -7,6 +7,7 @@
 - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 
 ### Reinforcement Learning
+- [Reinforcement Learning: An Introduction](./2025-05-20.pdf) \[[source](http://www.incompleteideas.net/book/the-book-2nd.html)\] \[[code](http://www.incompleteideas.net/book/code/code2nd.html)\]
 - [Reinforcement Learning from Human Feedback](./2504.12501.pdf) \[[source](http://arxiv.org/abs/2504.12501)\]
 - [The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations](https://arxiv.org/abs/2401.13662)
 - [Reinforcement Learning: A Comprehensive Overview](https://arxiv.org/abs/2412.05265)
