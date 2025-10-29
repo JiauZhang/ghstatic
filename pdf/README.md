@@ -1,4 +1,5 @@
 ### Generative Modeling
+- [The Principles of Diffusion Models](./2025-10-29.pdf) \[[source](http://arxiv.org/abs/2510.21890)\]
 - [Learning to Generate Data by Estimating Gradients of the Data Distribution](./2024-09-06.pdf)
 - [Diffusion Model From Scratch](./2024-12-18.pdf)
 - [Generative Diffusion Modeling](./2024-12-24.pdf)
